@@ -5,9 +5,9 @@ repo: site-status # The name of this repository
 sites:
   - name: HB Framework (English)
     url: https://hbstack.dev/
-  - name: HB Framework (简体中文)
+  - name: HB Framework (Simplified Chinese)
     url: https://zh-hans.hbstack.dev/
-  - name: HB Framework (繁體中文)
+  - name: HB Framework (Tranditional Chinese)
     url: https://zh-hant.hbstack.dev/
 
 status-website:
@@ -23,7 +23,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
