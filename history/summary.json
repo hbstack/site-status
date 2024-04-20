@@ -4,18 +4,20 @@
     "url": "https://hbstack.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/hbstack.dev.ico",
     "slug": "hb-framework-english",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 163,
-    "timeWeek": 150,
-    "timeMonth": 155,
-    "timeYear": 230,
-    "dailyMinutesDown": {}
+    "time": 419,
+    "timeDay": 8991,
+    "timeWeek": 2359,
+    "timeMonth": 707,
+    "timeYear": 419,
+    "dailyMinutesDown": {
+      "2024-04-20": 0
+    }
   },
   {
     "name": "HB Framework (Simplified Chinese)",
