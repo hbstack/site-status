@@ -40,17 +40,19 @@
     "url": "https://zh-hant.hbstack.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/zh-hant.hbstack.dev.ico",
     "slug": "hb-framework-tranditional-chinese",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 164,
-    "timeWeek": 198,
-    "timeMonth": 190,
-    "timeYear": 175,
-    "dailyMinutesDown": {}
+    "time": 174,
+    "timeDay": 138,
+    "timeWeek": 187,
+    "timeMonth": 188,
+    "timeYear": 174,
+    "dailyMinutesDown": {
+      "2024-07-25": 0
+    }
   }
 ]
