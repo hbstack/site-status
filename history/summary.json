@@ -40,9 +40,9 @@
     "url": "https://zh-hant.hbstack.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/zh-hant.hbstack.dev.ico",
     "slug": "hb-framework-tranditional-chinese",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 180,
     "timeMonth": 201,
     "timeYear": 183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   }
 ]
