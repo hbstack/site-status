@@ -4,18 +4,20 @@
     "url": "https://hbstack.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/hbstack.dev.ico",
     "slug": "hb-framework-english",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 249,
-    "timeWeek": 219,
-    "timeMonth": 235,
+    "timeDay": 173,
+    "timeWeek": 204,
+    "timeMonth": 231,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "HB Framework (Simplified Chinese)",
@@ -40,18 +42,19 @@
     "url": "https://zh-hant.hbstack.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/zh-hant.hbstack.dev.ico",
     "slug": "hb-framework-tranditional-chinese",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 229,
-    "timeWeek": 210,
-    "timeMonth": 213,
-    "timeYear": 226,
+    "time": 216,
+    "timeDay": 170,
+    "timeWeek": 198,
+    "timeMonth": 209,
+    "timeYear": 225,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-08-24": 14,
       "2025-02-12": 12
     }
