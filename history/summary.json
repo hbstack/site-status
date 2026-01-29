@@ -4,7 +4,7 @@
     "url": "https://hbstack.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/hbstack.dev.ico",
     "slug": "hb-framework-english",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 204,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2026-01-29": 0,
       "2025-11-18": 128
     }
   },
